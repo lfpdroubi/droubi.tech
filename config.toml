@@ -1,4 +1,4 @@
-baseurl = "https://droubi.tech"
+baseurl = "https://droubi.tech/"
 title = "droubi.tech"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
